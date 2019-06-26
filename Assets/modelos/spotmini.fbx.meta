@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 7b82a5146e58f004395ff642feca0cd8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B cover cls
+    100002: Empty
+    100004: F cover
+    100006: I shoulder cls
+    100008: I shoulder cls.001
+    100010: L side plate
+    100012: L ultra sonic
+    100014: LB Cadera
+    100016: LB Contra Muslo
+    100018: LB Muslo
+    100020: LB Pie
+    100022: LB Pierna
+    100024: LB Rodilla
+    100026: LB Rotula
+    100028: LF arm cls
+    100030: LF arm cover
+    100032: LF arm joint cls
+    100034: LF Foot
+    100036: LF wrist cls
+    100038: O shoulder
+    100040: O shoulder.001
+    100042: Plate
+    100044: R cover
+    100046: R side plate
+    100048: R ultra sonic
+    100050: RB arm cls
+    100052: RB arm cover
+    100054: RB arm joint cls
+    100056: RB Foot
+    100058: RB wrist cls
+    100060: RF arm cls
+    100062: RF arm cover
+    100064: RF arm joint
+    100066: RF Foot
+    100068: RF wrist cls
+    100070: //RootNode
+    100072: T cover cls
+    100074: LF Cadera
+    100076: LF Contra Muslo
+    100078: LF Muslo
+    100080: LF Pie
+    100082: LF Pierna
+    100084: LF Rodilla
+    100086: RB Cadera
+    100088: RB Contra Muslo
+    100090: RB Muslo
+    100092: RB Pie
+    100094: RB Pierna
+    100096: RB Rodilla
+    100098: RF Cadera
+    100100: RF Contra Muslo
+    100102: RF Muslo
+    100104: RF Pie
+    100106: RF Pierna
+    100108: RF Rodilla
+    400000: B cover cls
+    400002: Empty
+    400004: F cover
+    400006: I shoulder cls
+    400008: I shoulder cls.001
+    400010: L side plate
+    400012: L ultra sonic
+    400014: LB Cadera
+    400016: LB Contra Muslo
+    400018: LB Muslo
+    400020: LB Pie
+    400022: LB Pierna
+    400024: LB Rodilla
+    400026: LB Rotula
+    400028: LF arm cls
+    400030: LF arm cover
+    400032: LF arm joint cls
+    400034: LF Foot
+    400036: LF wrist cls
+    400038: O shoulder
+    400040: O shoulder.001
+    400042: Plate
+    400044: R cover
+    400046: R side plate
+    400048: R ultra sonic
+    400050: RB arm cls
+    400052: RB arm cover
+    400054: RB arm joint cls
+    400056: RB Foot
+    400058: RB wrist cls
+    400060: RF arm cls
+    400062: RF arm cover
+    400064: RF arm joint
+    400066: RF Foot
+    400068: RF wrist cls
+    400070: //RootNode
+    400072: T cover cls
+    400074: LF Cadera
+    400076: LF Contra Muslo
+    400078: LF Muslo
+    400080: LF Pie
+    400082: LF Pierna
+    400084: LF Rodilla
+    400086: RB Cadera
+    400088: RB Contra Muslo
+    400090: RB Muslo
+    400092: RB Pie
+    400094: RB Pierna
+    400096: RB Rodilla
+    400098: RF Cadera
+    400100: RF Contra Muslo
+    400102: RF Muslo
+    400104: RF Pie
+    400106: RF Pierna
+    400108: RF Rodilla
+    2100000: Negro Opaco
+    2100002: Negro
+    2100004: Plastico Amarilo Oscuro
+    2100006: Plastico Amarilo
+    2100008: Gris
+    2100010: Motor
+    2300000: B cover cls
+    2300002: F cover
+    2300004: I shoulder cls
+    2300006: I shoulder cls.001
+    2300008: L side plate
+    2300010: L ultra sonic
+    2300012: LB Cadera
+    2300014: LB Contra Muslo
+    2300016: LB Muslo
+    2300018: LB Pie
+    2300020: LB Pierna
+    2300022: LB Rodilla
+    2300024: LB Rotula
+    2300026: LF arm cls
+    2300028: LF arm cover
+    2300030: LF arm joint cls
+    2300032: LF Foot
+    2300034: LF wrist cls
+    2300036: O shoulder
+    2300038: O shoulder.001
+    2300040: Plate
+    2300042: R cover
+    2300044: R side plate
+    2300046: R ultra sonic
+    2300048: RB arm cls
+    2300050: RB arm cover
+    2300052: RB arm joint cls
+    2300054: RB Foot
+    2300056: RB wrist cls
+    2300058: RF arm cls
+    2300060: RF arm cover
+    2300062: RF arm joint
+    2300064: RF Foot
+    2300066: RF wrist cls
+    2300068: T cover cls
+    2300070: LF Cadera
+    2300072: LF Contra Muslo
+    2300074: LF Muslo
+    2300076: LF Pie
+    2300078: LF Pierna
+    2300080: LF Rodilla
+    2300082: RB Cadera
+    2300084: RB Contra Muslo
+    2300086: RB Muslo
+    2300088: RB Pie
+    2300090: RB Pierna
+    2300092: RB Rodilla
+    2300094: RF Cadera
+    2300096: RF Contra Muslo
+    2300098: RF Muslo
+    2300100: RF Pie
+    2300102: RF Pierna
+    2300104: RF Rodilla
+    3300000: B cover cls
+    3300002: F cover
+    3300004: I shoulder cls
+    3300006: I shoulder cls.001
+    3300008: L side plate
+    3300010: L ultra sonic
+    3300012: LB Cadera
+    3300014: LB Contra Muslo
+    3300016: LB Muslo
+    3300018: LB Pie
+    3300020: LB Pierna
+    3300022: LB Rodilla
+    3300024: LB Rotula
+    3300026: LF arm cls
+    3300028: LF arm cover
+    3300030: LF arm joint cls
+    3300032: LF Foot
+    3300034: LF wrist cls
+    3300036: O shoulder
+    3300038: O shoulder.001
+    3300040: Plate
+    3300042: R cover
+    3300044: R side plate
+    3300046: R ultra sonic
+    3300048: RB arm cls
+    3300050: RB arm cover
+    3300052: RB arm joint cls
+    3300054: RB Foot
+    3300056: RB wrist cls
+    3300058: RF arm cls
+    3300060: RF arm cover
+    3300062: RF arm joint
+    3300064: RF Foot
+    3300066: RF wrist cls
+    3300068: T cover cls
+    3300070: LF Cadera
+    3300072: LF Contra Muslo
+    3300074: LF Muslo
+    3300076: LF Pie
+    3300078: LF Pierna
+    3300080: LF Rodilla
+    3300082: RB Cadera
+    3300084: RB Contra Muslo
+    3300086: RB Muslo
+    3300088: RB Pie
+    3300090: RB Pierna
+    3300092: RB Rodilla
+    3300094: RF Cadera
+    3300096: RF Contra Muslo
+    3300098: RF Muslo
+    3300100: RF Pie
+    3300102: RF Pierna
+    3300104: RF Rodilla
+    4300000: Plate
+    4300002: I shoulder cls
+    4300004: LF arm joint cls
+    4300006: LF arm cls
+    4300008: LF arm cover
+    4300010: LF wrist cls
+    4300012: LF Foot
+    4300014: RF arm joint
+    4300016: RF arm cls
+    4300018: RF arm cover
+    4300020: RF wrist cls
+    4300022: RF Foot
+    4300024: O shoulder
+    4300026: I shoulder cls.001
+    4300028: RB arm joint cls
+    4300030: RB arm cls
+    4300032: RB arm cover
+    4300034: RB wrist cls
+    4300036: RB Foot
+    4300038: O shoulder.001
+    4300040: R cover
+    4300042: L side plate
+    4300044: R side plate
+    4300046: F cover
+    4300048: B cover cls
+    4300050: T cover cls
+    4300052: R ultra sonic
+    4300054: L ultra sonic
+    4300056: LB Cadera
+    4300058: LB Rotula
+    4300060: LB Muslo
+    4300062: LB Contra Muslo
+    4300064: LB Rodilla
+    4300066: LB Pierna
+    4300068: LB Pie
+    4300070: LF Cadera
+    4300072: LF Muslo
+    4300074: LF Contra Muslo
+    4300076: LF Rodilla
+    4300078: LF Pierna
+    4300080: LF Pie
+    4300082: RF Cadera
+    4300084: RF Muslo
+    4300086: RF Contra Muslo
+    4300088: RF Rodilla
+    4300090: RF Pierna
+    4300092: RF Pie
+    4300094: RB Cadera
+    4300096: RB Muslo
+    4300098: RB Contra Muslo
+    4300100: RB Rodilla
+    4300102: RB Pierna
+    4300104: RB Pie
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: 64f8dcb527a35a24981d4f6e780f5e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Motor
+    second: {fileID: 2100000, guid: 31320c9f2865ff84e8d8ac84357d3839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro
+    second: {fileID: 2100000, guid: 4d9ca81e5bc8fa9478ecc186d4ce420b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro Opaco
+    second: {fileID: 2100000, guid: e92bd0b213e7d5b4db249df00c822f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastico Amarilo
+    second: {fileID: 2100000, guid: 2c45b0ad29a861149879728ee3baf4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastico Amarilo Oscuro
+    second: {fileID: 2100000, guid: 26aa3b43156702a4fb158495236b17bf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Empty/Plate
+    - Empty
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
